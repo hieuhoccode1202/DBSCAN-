@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "MLTable": "yaml",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "random": "cpp",
+        "functional": "cpp",
+        "ranges": "cpp",
+        "regex": "cpp"
+    }
+}
